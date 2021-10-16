@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/pdirene" target="blank"><img src="https://img.shields.io/twitter/follow/pdirene?logo=twitter&style=for-the-badge" alt="pdirene" /></a> </p>
 
-- 🔭 I’m currently working on [Universidad Técnica Particular de Loja](www.utpl.edu.ec)
+- 🔭 I’m currently working on [Universidad Técnica Particular de Loja](https://www.utpl.edu.ec)
 
 - 🌱 I’m currently learning **Artificial Intelligence,Phyton**
 
