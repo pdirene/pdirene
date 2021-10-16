@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Artificial Intelligence,Phyton**
 
-- 👯 I’m looking to collaborate on [Democratization of Teaching-Learning of Artificial Intelligence at Early Ages](Democratization of Teaching-Learning of Artificial Intelligence at Early Ages)
+- 👯 I’m looking to collaborate on [Democratization of Teaching-Learning of Artificial Intelligence at Early Ages](https://osf.io/958pr/)
 
 - 📫 How to reach me **pdirene@gmail.com, pdirene@utpl.edu.ec**
 
